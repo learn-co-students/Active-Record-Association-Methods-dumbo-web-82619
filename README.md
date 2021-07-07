@@ -28,9 +28,9 @@ macros.
 
 ### Building our Migrations
 
-You can take a look at the migration, if you need a reminder of the tables'
+<!-- You can take a look at the migration, if you need a reminder of the tables'
 structures. Run `rake db:migrate` in your terminal to execute our table
-creations.
+creations. -->
 
 ### Building our Associations using AR Macros
 
